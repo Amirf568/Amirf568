@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Amir
 
-<!--
-**Amirf568/Amirf568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   I'm a Computer Science & Data Science student at Rutgers University, with a minor in Mathematics.  
+   I enjoy building things that bridge data, software, and real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+-  Personal portfolio website (GitHub Pages + HTML/CSS/JS)
+-  Data science projects using Python, Pandas, PyTorch, Plotly, Seaborn, and more
+
+---
+
+### What I’m Learning
+- DeepLearning.AI Machine Learning Specialization (Completed 1 of 3 courses)
+- IBM Data Science Professional Certificate (Completed 4 of 9 courses) 
+- Data engineering pipelines (SQL, Docker)
+- Web design with animations
+
+---
+
+### Contact
+See everything on my website!
+- [My Website](https://amirf568.github.io)
