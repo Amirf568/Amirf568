@@ -6,8 +6,8 @@
 ---
 
 ### What I'm Working On
--  Personal portfolio website (GitHub Pages + HTML/CSS/JS)
 -  Data science projects using Python, Pandas, PyTorch, Plotly, Seaborn, and more
+-  Personal portfolio website (GitHub Pages + HTML/CSS/JS)
 
 ---
 
