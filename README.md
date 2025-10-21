@@ -1,6 +1,6 @@
 # Hi, I'm Amir
 
-   I'm a Computer Science & Data Science student at Rutgers University, with a minor in Mathematics.  
+   I'm a Computer Science & Statistics student at Rutgers University.
    I enjoy building things that bridge data, software, and real-world impact.
 
 ---
