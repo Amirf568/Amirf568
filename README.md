@@ -1,24 +1,37 @@
 # Hi, I'm Amir
 
-   I'm a Computer Science & Statistics student at Rutgers University.
-   I enjoy building things that bridge data, software, and real-world impact.
+I’m a **Computer Science & Mathematics student at Rutgers University** interested in building reliable, high-performance software systems.
+
+I enjoy working close to the machine — networking, operating systems, distributed systems, cloud infrastructure, and backend architecture — while applying mathematical thinking to real-world computing problems such as large-scale services, data processing, and financial systems.
+
+My goal is to become a **systems / backend / infrastructure (potentially cloud) engineer** working on scalable platforms and distributed technologies where correctness, performance, and reliability matter.
 
 ---
 
-### What I'm Working On
--  Data science projects using Python, Pandas, PyTorch, Plotly, Seaborn, and more
--  Personal portfolio website (GitHub Pages + HTML/CSS/JS)
+## What I'm Building
+- Systems projects in **C/C++/Python** 
+- Backend and distributed services
+- Linux-based tooling and automation
+- Self-hosted infrastructure & home server services
+- Performance-oriented software experiments
 
 ---
 
-### What I’m Learning
-- DeepLearning.AI Machine Learning Specialization (Completed 1 of 3 courses)
-- IBM Data Science Professional Certificate (Completed 4 of 9 courses) 
-- Data engineering pipelines (SQL, Docker)
-- Web design with animations
+## What I’m Learning
+- Distributed systems concepts 
+- Operating systems and networking internals
+- Database storage & querying
+- Cloud infrastructure and deployment 
+- Applied mathematics for computing
 
 ---
 
-### Contact
-See everything on my website!
-- [My Website](https://amirf568.github.io)
+## Certifications
+- MongoDB Database Certification — In Progress
+- AWS Cloud Certification — In Progress
+
+---
+
+## Contact
+See everything on my website:  
+https://amirf568.github.io
