@@ -28,7 +28,7 @@ My goal is to become a **systems / backend / infrastructure (potentially cloud) 
 
 ## Certifications
 - MongoDB Database Certification — In Progress
-- AWS Cloud Certification — In Progress
+- CompTIA Security+ — In Progress
 
 ---
 
