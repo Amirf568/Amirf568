@@ -1,37 +1,47 @@
 # Hi, I'm Amir
 
-I’m a **Computer Science & Mathematics student at Rutgers University** interested in building reliable, high-performance software systems.
+I’m a Computer Science & Mathematics student at Rutgers University focused on network engineering, cloud infrastructure, cybersecurity, and automation.
 
-I enjoy working close to the machine — networking, operating systems, distributed systems, cloud infrastructure, and backend architecture — while applying mathematical thinking to real-world computing problems such as large-scale services, data processing, and financial systems.
+I enjoy understanding how complex systems communicate, operate, and stay secure — from physical network infrastructure and enterprise networking to Linux systems, monitoring, automation, and network security.
 
-My goal is to become a **systems / backend / infrastructure (potentially cloud) engineer** working on scalable platforms and distributed technologies where correctness, performance, and reliability matter.
+Through hands-on experience, I’ve worked across network engineering, IT infrastructure, cybersecurity, systems administration, and software engineering. I’m particularly interested in building, automating, monitoring, troubleshooting, and securing reliable network and cloud environments.
 
----
+## What I'm Working With
 
-## What I'm Building
-- Systems projects in **C/C++/Python** 
-- Backend and distributed services
-- Linux-based tooling and automation
-- Self-hosted infrastructure & home server services
-- Performance-oriented software experiments
-
----
+- Enterprise networking and network infrastructure
+- Wireless networking, switching, Ethernet, and fiber optics
+- Linux and systems administration
+- Python network automation
+- Network and server monitoring
+- Network security and traffic analysis
+- Security auditing and incident investigation
+- Git and collaborative software development
 
 ## What I’m Learning
-- Distributed systems concepts 
-- Operating systems and networking internals
-- Database storage & querying
-- Cloud infrastructure and deployment 
-- Applied mathematics for computing
 
----
+- Cloud networking and infrastructure
+- Network architecture and security
+- Infrastructure automation
+- Network observability and monitoring
+- Cybersecurity and incident response
+- Linux and systems internals
+- Secure software and infrastructure practices
 
 ## Certifications
-- MongoDB Database Certification — In Progress
+
 - CompTIA Security+ — In Progress
 
----
+## Areas of Interest
+
+- Network Engineering
+- Cloud Engineering
+- Network Security
+- Cybersecurity
+- Infrastructure Engineering
+- Infrastructure Automation
 
 ## Contact
-See everything on my website:  
+
+Learn more about my experience and work on my website:
+
 https://amirf568.github.io
