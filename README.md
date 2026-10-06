@@ -29,6 +29,8 @@ Through hands-on experience, I’ve worked across network engineering, IT infras
 
 ## Certifications
 
+- AWS Certified Cloud Practitioner — In Progress
+
 - CompTIA Security+ — In Progress
 
 ## Areas of Interest
