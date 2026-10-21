@@ -1,7 +1,7 @@
 # Hi, I'm Amir!
 
 I'm a Computer Science and Mathematics student at Rutgers University
-interested in network engineering, cybersecurity, cloud infrastructure,
+interested in cybersecurity, network engineering, cloud infrastructure,
 and national security.
 
 As a Network Engineering Intern at the Institute for Advanced Study,
