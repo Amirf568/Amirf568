@@ -1,10 +1,15 @@
 # Hi, I'm Amir!
 
-I'm a Computer Science and Mathematics student at Rutgers University interested in network engineering, cybersecurity, and national security.
+I'm a Computer Science and Mathematics student at Rutgers University
+interested in network engineering, cybersecurity, cloud infrastructure,
+and national security.
 
-As a Network Engineering Intern at the Institute for Advanced Study, I gain hands-on experience with enterprise networking, infrastructure automation, network monitoring, and cybersecurity investigations.
+As a Network Engineering Intern at the Institute for Advanced Study,
+I gain hands-on experience with enterprise networking, infrastructure
+automation, network monitoring, and cybersecurity investigations.
 
-I'm particularly interested in computer network defense, cyber threat intelligence, and secure network infrastructure.
+I'm particularly interested in computer network defense, cloud security,
+and cyber threat intelligence.
 
 ## Technical Skills
 
@@ -14,7 +19,13 @@ I'm particularly interested in computer network defense, cyber threat intelligen
 
 **Programming & Systems:** Python, C, Java, SQL, Linux, Git, PostgreSQL
 
-**Tools:** Icinga, Nagios, Plixer
+**Tools:** GitLab, Icinga, Nagios, Plixer
+
+## Currently Learning
+
+- AWS Cloud Infrastructure
+- Cloud Networking & Security
+- Cyber Defense & Threat Analysis
 
 ## Connect
 
