@@ -14,7 +14,7 @@ I'm particularly interested in computer network defense, cyber threat intelligen
 
 **Programming & Systems:** Python, C, Java, SQL, Linux, Git, PostgreSQL
 
-**Tools:** GitLab, Icinga, Nagios, Plixer
+**Tools:** Icinga, Nagios, Plixer
 
 ## Connect
 
