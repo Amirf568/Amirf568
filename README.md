@@ -1,49 +1,22 @@
-# Hi, I'm Amir
+# Hi, I'm Amir!
 
-I’m a Computer Science & Mathematics student at Rutgers University focused on network engineering, cloud infrastructure, cybersecurity, and automation.
+I'm a Computer Science and Mathematics student at Rutgers University interested in network engineering, cybersecurity, and national security.
 
-I enjoy understanding how complex systems communicate, operate, and stay secure — from physical network infrastructure and enterprise networking to Linux systems, monitoring, automation, and network security.
+As a Network Engineering Intern at the Institute for Advanced Study, I gain hands-on experience with enterprise networking, infrastructure automation, network monitoring, and cybersecurity investigations.
 
-Through hands-on experience, I’ve worked across network engineering, IT infrastructure, cybersecurity, systems administration, and software engineering. I’m particularly interested in building, automating, monitoring, troubleshooting, and securing reliable network and cloud environments.
+I'm particularly interested in computer network defense, cyber threat intelligence, and secure network infrastructure.
 
-## What I'm Working With
+## Technical Skills
 
-- Enterprise networking and network infrastructure
-- Wireless networking, switching, Ethernet, and fiber optics
-- Linux and systems administration
-- Python network automation
-- Network and server monitoring
-- Network security and traffic analysis
-- Security auditing and incident investigation
-- Git and collaborative software development
+**Networking:** TCP/IP, Ethernet, Wireless Networking, IPAM, Network Monitoring
 
-## What I’m Learning
+**Cybersecurity:** Network Security, Security Monitoring, NDR, Security Auditing
 
-- Cloud networking and infrastructure
-- Network architecture and security
-- Infrastructure automation
-- Network observability and monitoring
-- Cybersecurity and incident response
-- Linux and systems internals
-- Secure software and infrastructure practices
+**Programming & Systems:** Python, C, Java, SQL, Linux, Git, PostgreSQL
 
-## Certifications
+**Tools:** GitLab, Icinga, Nagios, Plixer
 
-- AWS Certified Cloud Practitioner — In Progress
+## Connect
 
-- CompTIA Security+ — In Progress
-
-## Areas of Interest
-
-- Network Engineering
-- Cloud Engineering
-- Network Security
-- Cybersecurity
-- Infrastructure Engineering
-- Infrastructure Automation
-
-## Contact
-
-Learn more about my experience and work on my website:
-
-https://amirf568.github.io
+- [Website](https://amirf568.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/amir-reza-farhang/)
